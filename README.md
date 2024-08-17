@@ -23,12 +23,14 @@ Edit the application.properties or application.yml file to update the database a
 3. Run the project:
 
 
-```./mvnw spring-boot:run
+```bash
+./mvnw spring-boot:run
 
 or
 
+```bash
+./gradlew bootRun
 
-```./gradlew bootRun
 Usage
 After running the project, open your web browser and go to http://localhost:8080.
 
