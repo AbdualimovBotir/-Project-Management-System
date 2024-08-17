@@ -23,12 +23,12 @@ Edit the application.properties or application.yml file to update the database a
 3. Run the project:
 
 
-```bash
+
 ./mvnw spring-boot:run
 
 or
 
-```bash
+
 ./gradlew bootRun
 
 Usage
